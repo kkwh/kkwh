@@ -1,3 +1,5 @@
+<div align=center>
+
 # Backend Developer 💻
 
 <div align=center><h3>📚 STACKS</h3></div>
@@ -27,7 +29,12 @@
   <br>
 </div>
 
-<div align=center><h3>🗒 GitHub stats</h3></div>
+<br>
+<br>
+
+
+<div align=center><h3>📜 GitHub stats</h3></div>
+
 ![Woohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkwh&show_icons=true&theme=radical)
 
 
@@ -45,3 +52,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
