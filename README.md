@@ -14,6 +14,7 @@
   
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+  <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
   <br>
   
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -26,7 +27,9 @@
   <br>
 </div>
 
+<div align=center><h3>🗒 GitHub stats</h3></div>
 ![Woohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkwh&show_icons=true&theme=radical)
+
 
 <!--
 **kkwh/kkwh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
